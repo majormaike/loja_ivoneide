@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "737440929008",
+    "firebase_url": "https://app-ivoneide.firebaseio.com",
+    "project_id": "app-ivoneide",
+    "storage_bucket": "app-ivoneide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737440929008:android:9a9d139b1ae967d0f89e35",
+        "android_client_info": {
+          "package_name": "br.com.matias.ivoneide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737440929008-vo2v3vl3s4bufa2k4omr0sp4360rm2j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCqYZrKaiea0KSCzmITnGQbHaIBBDXKb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737440929008-vo2v3vl3s4bufa2k4omr0sp4360rm2j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
